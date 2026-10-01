@@ -1,8 +1,21 @@
-# ML Models for Predicting Cervical Cancer Risk
+# Cervical Cancer Risk Prediction Using Machine Learning
+
+This repository contains machine learning experiments for cervical cancer
+risk prediction, including exploratory data analysis, preprocessing,
+dimensionality reduction, class-imbalance handling, model development
+and classifier fusion.
 
 **Goal:** Develop a reliable predictive model that addresses class imbalance, reduces feature dimensionality and improves accuracy using a fused machine learning classifier.
 
----
+## Research Context
+
+This work was developed as part of my Master's research project:
+
+**Enhancing Cervical Cancer Risk Prediction by Fused Machine Learning Classifier**
+
+The project investigates the use of machine learning methods to support risk prediction from cervical cancer-related clinical and questionnaire
+features.
+
 ## Objective
 - Handle **class imbalance** to ensure a more reliable predictive model.  
 - Apply **dimensionality reduction** techniques (e.g., PCA) to streamline features, enhance model efficiency and reduce computational time.  
