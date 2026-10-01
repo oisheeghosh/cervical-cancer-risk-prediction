@@ -139,7 +139,6 @@ Implemented and compared the following machine learning algorithms:
   - Precision: 100%  
   - Recall: 100%  
   - F1-score: 100%  
-- **Observations:** [Brief insight, e.g., "Random Forest, Logistic Regression outperformed Naïve base models."]
 
 **Visualization:**  
 Correlation Heatmaps
@@ -148,10 +147,6 @@ Feature Distribution Plots
 
 Model Accuracy,confusion matrix, ROC AUC  curve Comparison
 
----
-
-## 👩‍💻 Author
-**Oishee Ghosh**
 
 
 
