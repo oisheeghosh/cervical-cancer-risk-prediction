@@ -102,7 +102,7 @@ UCI Machine Learning Repository
 Implemented and compared the following machine learning algorithms:
 1. **Logistic Regression** – baseline model
 2. **Random Forest** – tree-based ensemble
-3. **Naïve base** – Probabilistic classification model
+3. **Naïve bayes** – Probabilistic classification model
 4. **Fused machine learning classifier** – Ensemble classification model
 
 ---
